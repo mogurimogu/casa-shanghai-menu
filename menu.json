@@ -1,0 +1,356 @@
+{
+  "vat": 10,
+  "menu": {
+    "soups": {
+      "name": {
+        "es": "Sopas",
+        "en": "Soups"
+      },
+      "dishes": [
+        {
+          "id": 1,
+          "es": "Sopa de pollo con fideos",
+          "en": "1. Chicken noodle soup",
+          "enabled": true,
+          "price": 4.5
+        },
+        {
+          "id": 2,
+          "es": "Sopa agripicante",
+          "en": "2. Sour and hot soup",
+          "enabled": true,
+          "price": 5.5
+        },
+        {
+          "id": 3,
+          "es": "Sopa al estilo aleta de tiburón",
+          "en": "",
+          "enabled": true,
+          "price": 6.1
+        },
+        {
+          "id": 301,
+          "es": "Sopa de WonTon",
+          "en": "",
+          "enabled": true,
+          "price": 5.5
+        }
+      ]
+    },
+    "starters": {
+      "name": {
+        "es": "Entrantes",
+        "en": "Starters"
+      },
+      "dishes": [
+        {
+          "id": 4,
+          "es": "Rollo de primavera",
+          "en": "",
+          "enabled": true,
+          "price": 4.5
+        },
+        {
+          "id": 5,
+          "es": "Ensalada china con rollo de primavera",
+          "en": "",
+          "description": {
+            "es": "lechuga con brotes de soja y fideos de soja",
+            "en": ""
+          },
+          "enabled": true,
+          "price": 6.5
+        },
+        {
+          "id": 6,
+          "es": "Ensalada china con cerdo asado",
+          "en": "",
+          "description": {
+            "es": "lechuga con brotes de soja y fideos de soja",
+            "en": ""
+          },
+          "enabled": true,
+          "price": 5.5
+        },
+        {
+          "id": 7,
+          "es": "Ensalada de pollo con salsa de cacahuetes picante",
+          "en": "",
+          "enabled": true,
+          "price": 6.2
+        },
+        {
+          "id": 8,
+          "es": "Pan de gambas",
+          "en": "",
+          "enabled": true,
+          "price": 2
+        },
+        {
+          "id": 9,
+          "es": "Costillas de cerdo asadas",
+          "en": "",
+          "enabled": true,
+          "price": 6.9
+        },
+        {
+          "id": 901,
+          "es": "Chai-bao",
+          "en": "",
+          "description": {
+            "es": "bollo al vapor relleno de verduras",
+            "en": ""
+          },
+          "enabled": true,
+          "price": 5.6
+        },
+        {
+          "id": 902,
+          "es": "Cha-Shao-Bao",
+          "en": "",
+          "description": {
+            "es": "bollo al vapor relleno de cerdo asado",
+            "en": ""
+          },
+          "enabled": true,
+          "price": 5.6
+        },
+        {
+          "id": 903,
+          "es": "Muslitos de pollo fritos",
+          "en": "",
+          "enabled": true,
+          "price": 6.2
+        },
+        {
+          "id": 302,
+          "es": "WonTon fritos",
+          "en": "",
+          "description": {
+            "es": "láminas de pasta rellenas de carne (6u.)",
+            "en": ""
+          },
+          "enabled": true,
+          "price": 6.5
+        },
+        {
+          "id": 303,
+          "es": "Dumplings fritos",
+          "en": "",
+          "description": {
+            "es": "empanadillas chinas rellenas de carne (4u.)",
+            "en": ""
+          },
+          "enabled": true,
+          "price": 6.5
+        }
+      ]
+    },
+    "vegetables": {
+      "name": {
+        "es": "Verduras, pastas y arroces",
+        "en": "Vegetables, pasta and rice"
+      },
+      "dishes": [
+        {
+          "id": 10,
+          "es": "Chopsuey con champiñones",
+          "en": "",
+          "description": {
+            "es": "salteado de verduras con champiñones",
+            "en": ""
+          },
+          "enabled": true,
+          "price": 11.5
+        },
+        {
+          "id": 11,
+          "es": "Bambú y setas",
+          "en": "",
+          "enabled": true,
+          "price": 12
+        },
+        {
+          "id": 13,
+          "es": "Fideos de arroz con verduras",
+          "en": "",
+          "enabled": true,
+          "price": 12.5
+        },
+        {
+          "id": 14,
+          "es": "Fideos de arroz con carne y salsa de soja",
+          "en": "",
+          "enabled": true,
+          "price": 11.5
+        },
+        {
+          "id": 15,
+          "es": "Tallarines con pollo y verduras",
+          "en": "",
+          "enabled": true,
+          "price": 12.5
+        },
+        {
+          "id": 16,
+          "es": "Tallarines con langostinos y verduras",
+          "en": "",
+          "enabled": true,
+          "price": 16.5
+        },
+        {
+          "id": 17,
+          "es": "Tallarines con carne y salsa de soja",
+          "en": "",
+          "enabled": true,
+          "price": 10.5
+        },
+        {
+          "id": 18,
+          "es": "Arroz frito con huevo",
+          "en": "",
+          "enabled": true,
+          "price": 6.9
+        },
+        {
+          "id": 19,
+          "es": "Arroz frito cantonés con gambas",
+          "en": "",
+          "enabled": true,
+          "price": 8.9
+        }
+      ]
+    },
+    "shrimps": {
+      "name": {
+        "es": "Langostinos",
+        "en": "Shrimps"
+      },
+      "dishes": [
+        {
+          "id": 90,
+          "es": "Chopsuey con langostinos",
+          "en": "",
+          "description": {
+            "es": "salteado de verduras con langostinos pelados",
+            "en": ""
+          },
+          "enabled": true,
+          "price": 16.9
+        },
+        {
+          "id": 92,
+          "es": "Langostinos agridulces",
+          "en": "",
+          "description": {
+            "es": "langostinos pelados y rebozados con salsa agridulce",
+            "en": ""
+          },
+          "enabled": true,
+          "price": 16.5
+        },
+        {
+          "id": 95,
+          "es": "Langostinos al Ti-Pan",
+          "en": "",
+          "description": {
+            "es": "langostinos pelados con salsa sobre placa caliente",
+            "en": ""
+          },
+          "enabled": true,
+          "price": 17.5
+        }
+      ]
+    },
+    "duck": {
+      "name": {
+        "es": "Pato",
+        "en": "Duck"
+      },
+      "dishes": [
+        {
+          "id": 0,
+          "es": "",
+          "en": "",
+          "enabled": true,
+          "price": 0
+        }
+      ]
+    },
+    "chicken": {
+      "name": {
+        "es": "Pollo",
+        "en": "Chicken"
+      },
+      "dishes": [
+        {
+          "id": 0,
+          "es": "",
+          "en": "",
+          "enabled": true,
+          "price": 0
+        }
+      ]
+    },
+    "meat": {
+      "name": {
+        "es": "Carnes",
+        "en": "Meat"
+      },
+      "dishes": [
+        {
+          "id": 0,
+          "es": "",
+          "en": "",
+          "enabled": true,
+          "price": 0
+        }
+      ]
+    },
+    "fish": {
+      "name": {
+        "es": "Pescado",
+        "en": "Fish"
+      },
+      "dishes": [
+        {
+          "id": 0,
+          "es": "",
+          "en": "",
+          "enabled": true,
+          "price": 0
+        }
+      ]
+    },
+    "complements": {
+      "name": {
+        "es": "Complementos",
+        "en": "Complements"
+      },
+      "dishes": [
+        {
+          "id": 0,
+          "es": "",
+          "en": "",
+          "enabled": true,
+          "price": 0
+        }
+      ]
+    },
+    "dessert": {
+      "name": {
+        "es": "Postres",
+        "en": "Dessert"
+      },
+      "dishes": [
+        {
+          "id": 0,
+          "es": "",
+          "en": "",
+          "enabled": true,
+          "price": 0
+        }
+      ]
+    }
+  }
+}
