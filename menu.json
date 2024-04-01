@@ -1,180 +1,422 @@
 {
-    "vat": 10,
-    "menu": {
-        "soups": {
-            "name": {
-                "es": "Sopas",
-                "en": "Soups"
-            },
-            "dishes": [
-                {
-                    "id": 1,
-                    "name": {
-                        "es": "Sopa de pollo con fideos",
-                        "en": "1. Chicken noodle soup"
-                    },
-                    "enabled": true,
-                    "price": 4.5
-                },
-                {
-                    "id": 2,
-                    "name": {
-                        "es": "Sopa agripicante",
-                        "en": "2. Sour and hot soup"
-                    },
-                    "enabled": true,
-                    "price": 5.5
-                },
-                {
-                    "id": 3,
-                    "name": {
-                        "es": "Sopa al estilo aleta de tiburón",
-                        "en": ""
-                    },
-                    "enabled": true,
-                    "price": 6.1
-                },
-                {
-                    "id": 301,
-                    "name": {
-                        "es": "Sopa de WonTon",
-                        "en": ""
-                    },
-                    "enabled": true,
-                    "price": 5.5
-                }
-            ]
+  "vat": 10,
+  "menu": {
+    "soups": {
+      "name": {
+        "es": "Sopas",
+        "en": "Soups"
+      },
+      "dishes": [
+        {
+          "id": 1,
+          "menu": {
+            "es": "Sopa de pollo con fideos",
+            "en": "Chicken noodle soup"
+          },
+          "enabled": true,
+          "price": 4.5
         },
-        "starters": {
-            "name": {
-                "es": "Entrantes",
-                "en": "Starters"
-            },
-            "dishes": [
-                {
-                    "id": 4,
-                    "name": {
-                        "es": "Rollo de primavera",
-                        "en": ""
-                    },
-                    "enabled": true,
-                    "price": 4.5
-                },
-                {
-                    "id": 5,
-                    "name": {
-                        "es": "Ensalada china con rollo de primavera",
-                        "en": ""
-                    },
-                    "description": {
-                        "es": "lechuga con brotes de soja y fideos de soja",
-                        "en": ""
-                    },
-                    "enabled": true,
-                    "price": 6.5
-                },
-                {
-                    "id": 6,
-                    "name": {
-                        "es": "Ensalada china con cerdo asado",
-                        "en": ""
-                    },
-                    "description": {
-                        "es": "lechuga con brotes de soja y fideos de soja",
-                        "en": ""
-                    },
-                    "enabled": true,
-                    "price": 5.5
-                },
-                {
-                    "id": 7,
-                    "name": {
-                        "es": "Ensalada de pollo con salsa de cacahuetes picante",
-                        "en": ""
-                    },
-                    "enabled": true,
-                    "price": 6.2
-                },
-                {
-                    "id": 8,
-                    "name": {
-                        "es": "Pan de gambas",
-                        "en": ""
-                    },
-                    "enabled": true,
-                    "price": 2
-                },
-                {
-                    "id": 9,
-                    "name": {
-                        "es": "Costillas de cerdo asadas",
-                        "en": ""
-                    },
-                    "enabled": true,
-                    "price": 6.9
-                },
-                {
-                    "id": 901,
-                    "name": {
-                        "es": "Chai-bao",
-                        "en": ""
-                    },
-                    "description": {
-                        "es": "bollo al vapor relleno de verduras",
-                        "en": ""
-                    },
-                    "enabled": true,
-                    "price": 5.6
-                },
-                {
-                    "id": 902,
-                    "name": {
-                        "es": "Cha-Shao-Bao",
-                        "en": ""
-                    },
-                    "description": {
-                        "es": "bollo al vapor relleno de cerdo asado",
-                        "en": ""
-                    },
-                    "enabled": true,
-                    "price": 5.6
-                },
-                {
-                    "id": 903,
-                    "name": {
-                        "es": "Muslitos de pollo fritos",
-                        "en": ""
-                    },
-                    "enabled": true,
-                    "price": 6.2
-                },
-                {
-                    "id": 302,
-                    "name": {
-                        "es": "WonTon fritos",
-                        "en": ""
-                    },
-                    "description": {
-                        "es": "láminas de pasta rellenas de carne (6u.)",
-                        "en": ""
-                    },
-                    "enabled": true,
-                    "price": 6.5
-                },
-                {
-                    "id": 303,
-                    "name": {
-                        "es": "Dumplings fritos",
-                        "en": ""
-                    },
-                    "description": {
-                        "es": "empanadillas chinas rellenas de carne (4u.)",
-                        "en": ""
-                    },
-                    "enabled": true,
-                    "price": 6.5
-                }
-            ]
+        {
+          "id": 2,
+          "menu": {
+            "es": "Sopa agripicante",
+            "en": "Sour and hot soup"
+          },
+          "enabled": true,
+          "price": 5.5
         },
-        "vegetables": {
-            "name":
+        {
+          "id": 3,
+          "menu": {
+            "es": "Sopa al estilo aleta de tiburón",
+            "en": "Shark fin soup"
+          },
+          "enabled": true,
+          "price": 6.1
+        },
+        {
+          "id": 301,
+          "menu": {
+            "es": "Sopa de WonTon",
+            "en": "Wonton soup"
+          },
+          "enabled": true,
+          "price": 5.5
+        }
+      ]
+    },
+    "starters": {
+      "name": {
+        "es": "Entrantes",
+        "en": "Starters"
+      },
+      "dishes": [
+        {
+          "id": 4,
+          "menu": {
+            "es": "Rollo de primavera",
+            "en": "Spring roll"
+          },
+          "enabled": true,
+          "price": 4.5
+        },
+        {
+          "id": 5,
+          "menu": {
+            "es": "Ensalada china con rollo de primavera",
+            "en": "Chinese salad with spring roll"
+          },
+          "description": {
+            "es": "lechuga con brotes de soja y fideos de soja",
+            "en": "lettuce with bean sprouts and soy noodles"
+          },
+          "enabled": true,
+          "price": 6.5
+        },
+        {
+          "id": 6,
+          "menu": {
+            "es": "Ensalada china con cerdo asado",
+            "en": "Chinese salad with roasted pork"
+          },
+          "description": {
+            "es": "lechuga con brotes de soja y fideos de soja",
+            "en": "lettuce with bean sprouts and soy noodles"
+          },
+          "enabled": true,
+          "price": 5.5
+        },
+        {
+          "id": 7,
+          "menu": {
+            "es": "Ensalada de pollo con salsa de cacahuetes picante",
+            "en": "Chicken salad with spicy peanut sauce"
+          },
+          "enabled": true,
+          "price": 6.2
+        },
+        {
+          "id": 8,
+          "menu": {
+            "es": "Pan de gambas",
+            "en": "Shrimp bread"
+          },
+          "enabled": true,
+          "price": 2
+        },
+        {
+          "id": 9,
+          "menu": {
+            "es": "Costillas de cerdo asadas",
+            "en": "Roasted pork ribs"
+          },
+          "enabled": true,
+          "price": 6.9
+        },
+        {
+          "id": 901,
+          "menu": {
+            "es": "Chai-bao",
+            "en": "Chai-bao"
+          },
+          "description": {
+            "es": "bollo al vapor relleno de verduras",
+            "en": "steamed bun filled with vegetables"
+          },
+          "enabled": true,
+          "price": 5.6
+        },
+        {
+          "id": 902,
+          "menu": {
+            "es": "Cha-Shao-Bao",
+            "en": "Cha-Shao-Bao"
+          },
+          "description": {
+            "es": "bollo al vapor relleno de cerdo asado",
+            "en": "steamed bun filled with roasted pork"
+          },
+          "enabled": true,
+          "price": 5.6
+        },
+        {
+          "id": 903,
+          "menu": {
+            "es": "Muslitos de pollo fritos",
+            "en": "Fried chicken drumsticks"
+          },
+          "enabled": true,
+          "price": 6.2
+        },
+        {
+          "id": 302,
+          "menu": {
+            "es": "WonTon fritos",
+            "en": "Fried wontons"
+          },
+          "description": {
+            "es": "láminas de pasta rellenas de carne (6u.)",
+            "en": "pasta sheets filled with meat (6 pcs.)"
+          },
+          "enabled": true,
+          "price": 6.5
+        },
+        {
+          "id": 303,
+          "menu": {
+            "es": "Dumplings fritos",
+            "en": "Fried dumplings"
+          },
+          "description": {
+            "es": "empanadillas chinas rellenas de carne (4u.)",
+            "en": "Chinese meat-filled dumplings (4 pcs.)"
+          },
+          "enabled": true,
+          "price": 6.5
+        }
+      ]
+    },
+    "vegetables": {
+      "name": {
+        "es": "Verduras, pastas y arroces",
+        "en": "Vegetables, pasta and rice"
+      },
+      "dishes": [
+        {
+          "id": 10,
+          "menu": {
+            "es": "Chopsuey con champiñones",
+            "en": "Chopsuey with mushrooms"
+          },
+          "description": {
+            "es": "salteado de verduras con champiñones",
+            "en": "stir-fried vegetables with mushrooms"
+          },
+          "enabled": true,
+          "price": 11.5
+        },
+        {
+          "id": 11,
+          "menu": {
+            "es": "Bambú y setas",
+            "en": "Bamboo and mushrooms"
+          },
+          "enabled": true,
+          "price": 12
+        },
+        {
+          "id": 13,
+          "menu": {
+            "es": "Fideos de arroz con verduras",
+            "en": "Rice noodles with vegetables"
+          },
+          "enabled": true,
+          "price": 12.5
+        },
+        {
+          "id": 14,
+          "menu": {
+            "es": "Fideos de arroz con carne y salsa de soja",
+            "en": "Rice noodles with meat and soy sauce"
+          },
+          "enabled": true,
+          "price": 11.5
+        },
+        {
+          "id": 15,
+          "menu": {
+            "es": "Tallarines con pollo y verduras",
+            "en": "Noodles with chicken and vegetables"
+          },
+          "enabled": true,
+          "price": 12.5
+        },
+        {
+          "id": 16,
+          "menu": {
+            "es": "Tallarines con langostinos y verduras",
+            "en": "Noodles with shrimp and vegetables"
+          },
+          "enabled": true,
+          "price": 16.5
+        },
+        {
+          "id": 17,
+          "menu": {
+            "es": "Tallarines con carne y salsa de soja",
+            "en": "Noodles with meat and soy sauce"
+          },
+          "enabled": true,
+          "price": 10.5
+        },
+        {
+          "id": 18,
+          "menu": {
+            "es": "Arroz frito con huevo",
+            "en": "Fried rice with egg"
+          },
+          "enabled": true,
+          "price": 6.9
+        },
+        {
+          "id": 19,
+          "menu": {
+            "es": "Arroz frito cantonés con gambas",
+            "en": "Cantonese fried rice with shrimp"
+          },
+          "enabled": true,
+          "price": 8.9
+        }
+      ]
+    },
+    "shrimps": {
+      "name": {
+        "es": "Langostinos",
+        "en": "Shrimps"
+      },
+      "dishes": [
+        {
+          "id": 90,
+          "menu": {
+            "es": "Chopsuey con langostinos",
+            "en": "Chopsuey with shrimp"
+          },
+          "description": {
+            "es": "salteado de verduras con langostinos pelados",
+            "en": "stir-fried vegetables with peeled shrimp"
+          },
+          "enabled": true,
+          "price": 16.9
+        },
+        {
+          "id": 92,
+          "menu": {
+            "es": "Langostinos agridulces",
+            "en": "Sweet and sour shrimp"
+          },
+          "description": {
+            "es": "langostinos pelados y rebozados con salsa agridulce",
+            "en": "peeled and battered shrimp with sweet and sour sauce"
+          },
+          "enabled": true,
+          "price": 16.5
+        },
+        {
+          "id": 95,
+          "menu": {
+            "es": "Langostinos al Ti-Pan",
+            "en": "Shrimp in Ti-Pan style"
+          },
+          "description": {
+            "es": "langostinos pelados con salsa sobre placa caliente",
+            "en": "peeled shrimp with sauce on a hot plate"
+          },
+          "enabled": true,
+          "price": 17.5
+        }
+      ]
+    },
+    "duck": {
+      "name": {
+        "es": "Pato",
+        "en": "Duck"
+      },
+      "dishes": [
+        {
+          "id": 0,
+          "menu": {
+            "es": "",
+            "en": ""
+          },
+          "enabled": true,
+          "price": 0
+        }
+      ]
+    },
+    "chicken": {
+      "name": {
+        "es": "Pollo",
+        "en": "Chicken"
+      },
+      "dishes": [
+        {
+          "id": 0,
+          "menu": {
+            "es": "",
+            "en": ""
+          },
+          "enabled": true,
+          "price": 0
+        }
+      ]
+    },
+    "meat": {
+      "name": {
+        "es": "Carnes",
+        "en": "Meat"
+      },
+      "dishes": [
+        {
+          "id": 0,
+          "menu": {
+            "es": "",
+            "en": ""
+          },
+          "enabled": true,
+          "price": 0
+        }
+      ]
+    },
+    "fish": {
+      "name": {
+        "es": "Pescado",
+        "en": "Fish"
+      },
+      "dishes": [
+        {
+          "id": 0,
+          "menu": {
+            "es": "",
+            "en": ""
+          },
+          "enabled": true,
+          "price": 0
+        }
+      ]
+    },
+    "complements": {
+      "name": {
+        "es": "Complementos",
+        "en": "Complements"
+      },
+      "dishes": [
+        {
+          "id": 0,
+          "menu": {
+            "es": "",
+            "en": ""
+          },
+          "enabled": true,
+          "price": 0
+        }
+      ]
+    },
+    "dessert": {
+      "name": {
+        "es": "Postres",
+        "en": "Dessert"
+      },
+      "dishes": [
+        {
+          "id": 0,
+          "menu": {
+            "es": "",
+            "en": ""
+          },
+          "enabled": true,
+          "price": 0
+        }
+      ]
+    }
+  }
+}
