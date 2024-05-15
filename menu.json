@@ -366,13 +366,71 @@
       },
       "dishes": [
         {
-          "id": 0,
+          "id": 42,
           "menu": {
-            "es": "",
-            "en": ""
+            "es": "Pollo agridulce",
+            "en": "Sweet and sour chicken"
           },
           "enabled": true,
-          "price": 0
+          "price": 11.5
+        },
+        {
+          "id": 43,
+          "menu": {
+            "es": "Pollo al curry",
+            "en": "Chicken with curry sauce"
+          },
+          "enabled": true,
+          "price": 12
+        },
+        {
+          "id": 44,
+          "menu": {
+            "es": "Pollo con pimientos, bambú y setas",
+            "en": "Chicken with peppers, mushrooms and bamboo"
+          },
+          "enabled": true,
+          "price": 12.5
+        },
+        {
+          "id": 46,
+          "menu": {
+            "es": "Tortilla Fu-Yun",
+            "en": "Fu-Yun omelet"
+          },
+          "description": {
+            "es": "salteado de pollo con verduras envueltos en tortilla",
+            "en": "omelet filled with stir fried chicken and vegetables"
+          },
+          "enabled": true,
+          "price": 13
+        },
+        {
+          "id": 47,
+          "menu": {
+            "es": "Pollo rebozado con salsa de limón",
+            "en": "Pollo rebozado con salsa de bambú y setas"
+          },
+          "enabled": true,
+          "price": 12
+        },
+        {
+          "id": 48,
+          "menu": {
+            "es": "Pollo rebozado con salsa de limón",
+            "en": "Fried chicken with lemon sauce"
+          },
+          "enabled": true,
+          "price": 13
+        },
+        {
+          "id": 49,
+          "menu": {
+            "es": "Pollo con almendras",
+            "en": "Chicken with almonds"
+          },
+          "enabled": true,
+          "price": 12.5
         }
       ]
     },
