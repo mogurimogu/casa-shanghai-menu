@@ -40,6 +40,10 @@
             "es": "Sopa de WonTon",
             "en": "Wonton soup"
           },
+          "description": {
+            "es": "láminas de pasta rellenas de carne",
+            "en": "pasta sheet filled with meat"
+          },
           "enabled": true,
           "price": 5.5
         }
@@ -323,13 +327,35 @@
       },
       "dishes": [
         {
-          "id": 0,
+          "id": 53,
           "menu": {
-            "es": "",
-            "en": ""
+            "es": "Pato pekinés",
+            "en": "Peking duck"
+          },
+          "description": {
+            "es": "pato laqueado con 4 tortas",
+            "en": "with 4 pancakes"
           },
           "enabled": true,
-          "price": 0
+          "price": 15.5
+        },
+        {
+          "id": 55,
+          "menu": {
+            "es": "Pato rebozado con salsa de bambú y setas",
+            "en": "Fried duck with mushrooms and bamboo sauce"
+          },
+          "enabled": true,
+          "price": 14.5
+        },
+        {
+          "id": 56,
+          "menu": {
+            "es": "Pato agridulce",
+            "en": "Sweet and sour duck"
+          },
+          "enabled": true,
+          "price": 14
         }
       ]
     },
