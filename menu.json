@@ -538,7 +538,7 @@
       },
       "dishes": [
         {
-          "id": 0,
+          "id": 981,
           "name": {
             "es": "Bacalao con salsa de bambú y setas",
             "en": "Codfish with mushrooms and bamboo sauce"
@@ -547,7 +547,7 @@
           "price": 0
         },
         {
-          "id": 0,
+          "id": 982,
           "name": {
             "es": "Pescado agridulce",
             "en": "Sweet and sour fish"
