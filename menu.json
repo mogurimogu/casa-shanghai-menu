@@ -9,7 +9,7 @@
       "dishes": [
         {
           "id": 1,
-          "menu": {
+          "name": {
             "es": "Sopa de pollo con fideos",
             "en": "Chicken noodle soup"
           },
@@ -18,7 +18,7 @@
         },
         {
           "id": 2,
-          "menu": {
+          "name": {
             "es": "Sopa agripicante",
             "en": "Sour and hot soup"
           },
@@ -27,7 +27,7 @@
         },
         {
           "id": 3,
-          "menu": {
+          "name": {
             "es": "Sopa al estilo aleta de tiburón",
             "en": "Shark fin soup"
           },
@@ -36,7 +36,7 @@
         },
         {
           "id": 301,
-          "menu": {
+          "name": {
             "es": "Sopa de WonTon",
             "en": "Wonton soup"
           },
@@ -57,7 +57,7 @@
       "dishes": [
         {
           "id": 4,
-          "menu": {
+          "name": {
             "es": "Rollo de primavera",
             "en": "Spring roll"
           },
@@ -66,7 +66,7 @@
         },
         {
           "id": 5,
-          "menu": {
+          "name": {
             "es": "Ensalada china con rollo de primavera",
             "en": "Chinese salad with spring roll"
           },
@@ -79,7 +79,7 @@
         },
         {
           "id": 6,
-          "menu": {
+          "name": {
             "es": "Ensalada china con cerdo asado",
             "en": "Chinese salad with roasted pork"
           },
@@ -92,7 +92,7 @@
         },
         {
           "id": 7,
-          "menu": {
+          "name": {
             "es": "Ensalada de pollo con salsa de cacahuetes picante",
             "en": "Chicken salad with spicy peanut sauce"
           },
@@ -101,7 +101,7 @@
         },
         {
           "id": 8,
-          "menu": {
+          "name": {
             "es": "Pan de gambas",
             "en": "Shrimp bread"
           },
@@ -110,7 +110,7 @@
         },
         {
           "id": 9,
-          "menu": {
+          "name": {
             "es": "Costillas de cerdo asadas",
             "en": "Roasted pork ribs"
           },
@@ -119,7 +119,7 @@
         },
         {
           "id": 901,
-          "menu": {
+          "name": {
             "es": "Chai-bao",
             "en": "Chai-bao"
           },
@@ -132,7 +132,7 @@
         },
         {
           "id": 902,
-          "menu": {
+          "name": {
             "es": "Cha-Shao-Bao",
             "en": "Cha-Shao-Bao"
           },
@@ -145,7 +145,7 @@
         },
         {
           "id": 903,
-          "menu": {
+          "name": {
             "es": "Muslitos de pollo fritos",
             "en": "Fried chicken drumsticks"
           },
@@ -154,7 +154,7 @@
         },
         {
           "id": 302,
-          "menu": {
+          "name": {
             "es": "WonTon fritos",
             "en": "Fried wontons"
           },
@@ -167,7 +167,7 @@
         },
         {
           "id": 303,
-          "menu": {
+          "name": {
             "es": "Dumplings fritos",
             "en": "Fried dumplings"
           },
@@ -188,7 +188,7 @@
       "dishes": [
         {
           "id": 10,
-          "menu": {
+          "name": {
             "es": "Chopsuey con champiñones",
             "en": "Chopsuey with mushrooms"
           },
@@ -201,7 +201,7 @@
         },
         {
           "id": 11,
-          "menu": {
+          "name": {
             "es": "Bambú y setas",
             "en": "Bamboo and mushrooms"
           },
@@ -210,7 +210,7 @@
         },
         {
           "id": 13,
-          "menu": {
+          "name": {
             "es": "Fideos de arroz con verduras",
             "en": "Rice noodles with vegetables"
           },
@@ -219,7 +219,7 @@
         },
         {
           "id": 14,
-          "menu": {
+          "name": {
             "es": "Fideos de arroz con carne y salsa de soja",
             "en": "Rice noodles with meat and soy sauce"
           },
@@ -228,7 +228,7 @@
         },
         {
           "id": 15,
-          "menu": {
+          "name": {
             "es": "Tallarines con pollo y verduras",
             "en": "Noodles with chicken and vegetables"
           },
@@ -237,7 +237,7 @@
         },
         {
           "id": 16,
-          "menu": {
+          "name": {
             "es": "Tallarines con langostinos y verduras",
             "en": "Noodles with shrimp and vegetables"
           },
@@ -246,7 +246,7 @@
         },
         {
           "id": 17,
-          "menu": {
+          "name": {
             "es": "Tallarines con carne y salsa de soja",
             "en": "Noodles with meat and soy sauce"
           },
@@ -255,7 +255,7 @@
         },
         {
           "id": 18,
-          "menu": {
+          "name": {
             "es": "Arroz frito con huevo",
             "en": "Fried rice with egg"
           },
@@ -264,7 +264,7 @@
         },
         {
           "id": 19,
-          "menu": {
+          "name": {
             "es": "Arroz frito cantonés con gambas",
             "en": "Cantonese fried rice with shrimp"
           },
@@ -281,7 +281,7 @@
       "dishes": [
         {
           "id": 90,
-          "menu": {
+          "name": {
             "es": "Chopsuey con langostinos",
             "en": "Chopsuey with shrimp"
           },
@@ -294,7 +294,7 @@
         },
         {
           "id": 92,
-          "menu": {
+          "name": {
             "es": "Langostinos agridulces",
             "en": "Sweet and sour shrimp"
           },
@@ -307,7 +307,7 @@
         },
         {
           "id": 95,
-          "menu": {
+          "name": {
             "es": "Langostinos al Ti-Pan",
             "en": "Shrimp in Ti-Pan style"
           },
@@ -328,7 +328,7 @@
       "dishes": [
         {
           "id": 53,
-          "menu": {
+          "name": {
             "es": "Pato pekinés",
             "en": "Peking duck"
           },
@@ -341,7 +341,7 @@
         },
         {
           "id": 55,
-          "menu": {
+          "name": {
             "es": "Pato rebozado con salsa de bambú y setas",
             "en": "Fried duck with mushrooms and bamboo sauce"
           },
@@ -350,7 +350,7 @@
         },
         {
           "id": 56,
-          "menu": {
+          "name": {
             "es": "Pato agridulce",
             "en": "Sweet and sour duck"
           },
@@ -367,7 +367,7 @@
       "dishes": [
         {
           "id": 42,
-          "menu": {
+          "name": {
             "es": "Pollo agridulce",
             "en": "Sweet and sour chicken"
           },
@@ -376,7 +376,7 @@
         },
         {
           "id": 43,
-          "menu": {
+          "name": {
             "es": "Pollo al curry",
             "en": "Chicken with curry sauce"
           },
@@ -385,7 +385,7 @@
         },
         {
           "id": 44,
-          "menu": {
+          "name": {
             "es": "Pollo con pimientos, bambú y setas",
             "en": "Chicken with peppers, mushrooms and bamboo"
           },
@@ -394,7 +394,7 @@
         },
         {
           "id": 46,
-          "menu": {
+          "name": {
             "es": "Tortilla Fu-Yun",
             "en": "Fu-Yun omelet"
           },
@@ -407,7 +407,7 @@
         },
         {
           "id": 47,
-          "menu": {
+          "name": {
             "es": "Pollo rebozado con salsa de limón",
             "en": "Pollo rebozado con salsa de bambú y setas"
           },
@@ -416,7 +416,7 @@
         },
         {
           "id": 48,
-          "menu": {
+          "name": {
             "es": "Pollo rebozado con salsa de limón",
             "en": "Fried chicken with lemon sauce"
           },
@@ -425,7 +425,7 @@
         },
         {
           "id": 49,
-          "menu": {
+          "name": {
             "es": "Pollo con almendras",
             "en": "Chicken with almonds"
           },
@@ -442,7 +442,7 @@
       "dishes": [
         {
           "id": 21,
-          "menu": {
+          "name": {
             "es": "Ternera con cebolla",
             "en": "Beef with onions"
           },
@@ -451,7 +451,7 @@
         },
         {
           "id": 23,
-          "menu": {
+          "name": {
             "es": "Ternera al curry",
             "en": "Beef with curry sauce"
           },
@@ -460,7 +460,7 @@
         },
         {
           "id": 25,
-          "menu": {
+          "name": {
             "es": "Ternera al Ti-Pan",
             "en": "Sizzling beef"
           },
@@ -473,7 +473,7 @@
         },
         {
           "id": 26,
-          "menu": {
+          "name": {
             "es": "Familia feliz",
             "en": "Happy family"
           },
@@ -486,7 +486,7 @@
         },
         {
           "id": 27,
-          "menu": {
+          "name": {
             "es": "Ternera con salsa de ostras",
             "en": "Beef with oyster sauce"
           },
@@ -495,7 +495,7 @@
         },
         {
           "id": 28,
-          "menu": {
+          "name": {
             "es": "Ternera con tofu",
             "en": "Beef with tofu"
           },
@@ -504,7 +504,7 @@
         },
         {
           "id": 29,
-          "menu": {
+          "name": {
             "es": "Ternera con salsa de bambú y setas",
             "en": "Beef with mushrooms and bamboo sauce"
           },
@@ -513,7 +513,7 @@
         },
         {
           "id": 32,
-          "menu": {
+          "name": {
             "es": "Cerdo agridulce",
             "en": "Sweet and sour pork"
           },
@@ -522,7 +522,7 @@
         },
         {
           "id": 34,
-          "menu": {
+          "name": {
             "es": "Cerdo asado con pimientos, bambú y setas",
             "en": "Roasted pork with peppers, mushrooms and bamboo"
           },
@@ -539,7 +539,7 @@
       "dishes": [
         {
           "id": 0,
-          "menu": {
+          "name": {
             "es": "Bacalao con salsa de bambú y setas",
             "en": "Codfish with mushrooms and bamboo sauce"
           },
@@ -548,7 +548,7 @@
         },
         {
           "id": 0,
-          "menu": {
+          "name": {
             "es": "Pescado agridulce",
             "en": "Sweet and sour fish"
           },
@@ -569,7 +569,7 @@
       "dishes": [
         {
           "id": 60,
-          "menu": {
+          "name": {
             "es": "Arroz blanco",
             "en": "Steamed rice"
           },
@@ -578,7 +578,7 @@
         },
         {
           "id": 600,
-          "menu": {
+          "name": {
             "es": "Pan chino",
             "en": "Chinese bread"
           },
@@ -587,7 +587,7 @@
         },
         {
           "id": 601,
-          "menu": {
+          "name": {
             "es": "Pan",
             "en": "Spanish bread"
           },
@@ -596,7 +596,7 @@
         },
         {
           "id": 602,
-          "menu": {
+          "name": {
             "es": "Tallarines",
             "en": "Soft noodles"
           },
@@ -605,7 +605,7 @@
         },
         {
           "id": 603,
-          "menu": {
+          "name": {
             "es": "Salsa agridulce",
             "en": "Sweet and sour sauce"
           },
@@ -614,7 +614,7 @@
         },
         {
           "id": 604,
-          "menu": {
+          "name": {
             "es": "Salsa curry",
             "en": "Curry sauce"
           },
@@ -623,7 +623,7 @@
         },
         {
           "id": 608,
-          "menu": {
+          "name": {
             "es": "Arroz con huevo",
             "en": "Egg fried rice"
           },
@@ -640,7 +640,7 @@
       "dishes": [
         {
           "id": 71,
-          "menu": {
+          "name": {
             "es": "Lichis",
             "en": "Lichis"
           },
@@ -649,7 +649,7 @@
         },
         {
           "id": 73,
-          "menu": {
+          "name": {
             "es": "Zumo de naranja natural",
             "en": "Fresh orange juice"
           },
@@ -658,7 +658,7 @@
         },
         {
           "id": 731,
-          "menu": {
+          "name": {
             "es": "Fruta fresca",
             "en": "Fresh fruit"
           },
@@ -667,7 +667,7 @@
         },
         {
           "id": 732,
-          "menu": {
+          "name": {
             "es": "Fresas con nata",
             "en": "Strawberries & whipped cream"
           },
@@ -676,7 +676,7 @@
         },
         {
           "id": 74,
-          "menu": {
+          "name": {
             "es": "Helado con nueces caramelizadas y miel",
             "en": "Ice cream with toasted walnuts"
           },
@@ -685,7 +685,7 @@
         },
         {
           "id": 744,
-          "menu": {
+          "name": {
             "es": "Nata con nueces caramelizadas",
             "en": "Whipped cream & toasted walnuts"
           },
@@ -694,7 +694,7 @@
         },
         {
           "id": 75,
-          "menu": {
+          "name": {
             "es": "Helado de vainilla",
             "en": "Vanilla ice-cream"
           },
@@ -703,7 +703,7 @@
         },
         {
           "id": 755,
-          "menu": {
+          "name": {
             "es": "Helado de vainilla con nata y chocolante caliente",
             "en": "vanilla ice-cream & whipped cream"
           },
@@ -712,7 +712,7 @@
         },
         {
           "id": 762,
-          "menu": {
+          "name": {
             "es": "Sorbete de limón",
             "en": "Lemmon sorbet"
           },
@@ -721,7 +721,7 @@
         },
         {
           "id": 763,
-          "menu": {
+          "name": {
             "es": "Tarta helada al Whisky",
             "en": "Whisky ice cream"
           },
@@ -730,7 +730,7 @@
         },
         {
           "id": 764,
-          "menu": {
+          "name": {
             "es": "Helado de limón natural",
             "en": "Natural lemmon ice cream"
           },
@@ -739,7 +739,7 @@
         },
         {
           "id": 765,
-          "menu": {
+          "name": {
             "es": "Helado de coco natural",
             "en": "Natural coconut ice cream"
           },
@@ -748,7 +748,7 @@
         },
         {
           "id": 766,
-          "menu": {
+          "name": {
             "es": "Helado de piña natural",
             "en": "Natural pineapple ice cream"
           },
@@ -757,7 +757,7 @@
         },
         {
           "id": 767,
-          "menu": {
+          "name": {
             "es": "Trufas heladas",
             "en": "Chocolate truffle"
           },
@@ -766,7 +766,7 @@
         },
         {
           "id": 768,
-          "menu": {
+          "name": {
             "es": "Comtesa",
             "en": "Comtessa"
           },
@@ -779,7 +779,7 @@
         },
         {
           "id": 77,
-          "menu": {
+          "name": {
             "es": "Plátano frito con miel",
             "en": "Fried banana with honey"
           },
@@ -788,7 +788,7 @@
         },
         {
           "id": 771,
-          "menu": {
+          "name": {
             "es": "Piña frita con miel",
             "en": "Fried pineapple with honey"
           },
@@ -797,7 +797,7 @@
         },
         {
           "id": 772,
-          "menu": {
+          "name": {
             "es": "Helado frito",
             "en": "Fried vanilla ice-cream"
           },
@@ -810,7 +810,7 @@
         },
         {
           "id": 78,
-          "menu": {
+          "name": {
             "es": "Especial de la casa",
             "en": "Special of the house"
           },
@@ -823,7 +823,7 @@
         },
         {
           "id": 782,
-          "menu": {
+          "name": {
             "es": "Profiteroles",
             "en": "Profiteroles"
           },
@@ -836,7 +836,7 @@
         },
         {
           "id": 783,
-          "menu": {
+          "name": {
             "es": "Flan de vainilla con nata",
             "en": "Vanilla pudding & whipped cream"
           },
