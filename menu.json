@@ -441,13 +441,93 @@
       },
       "dishes": [
         {
-          "id": 0,
+          "id": 21,
           "menu": {
-            "es": "",
-            "en": ""
+            "es": "Ternera con cebolla",
+            "en": "Beef with onions"
           },
           "enabled": true,
-          "price": 0
+          "price": 12.9
+        },
+        {
+          "id": 23,
+          "menu": {
+            "es": "Ternera al curry",
+            "en": "Beef with curry sauce"
+          },
+          "enabled": true,
+          "price": 12.9
+        },
+        {
+          "id": 25,
+          "menu": {
+            "es": "Ternera al Ti-Pan",
+            "en": "Sizzling beef"
+          },
+          "description": {
+            "es": "Ternera con salsa sobre placa caliente",
+            "en": "Beef with souce over a hot plate"
+          },
+          "enabled": true,
+          "price": 13.8
+        },
+        {
+          "id": 26,
+          "menu": {
+            "es": "Familia feliz",
+            "en": "Happy family"
+          },
+          "description": {
+            "es": "Salteado de pollo, ternera, cerdo y langostinos con verduras",
+            "en": "Stir fried chicken, beef, pork and shrimps with vegetables"
+          },
+          "enabled": true,
+          "price": 12.9
+        },
+        {
+          "id": 27,
+          "menu": {
+            "es": "Ternera con salsa de ostras",
+            "en": "Beef with oyster sauce"
+          },
+          "enabled": true,
+          "price": 12.9
+        },
+        {
+          "id": 28,
+          "menu": {
+            "es": "Ternera con tofu",
+            "en": "Beef with tofu"
+          },
+          "enabled": true,
+          "price": 12.9
+        },
+        {
+          "id": 29,
+          "menu": {
+            "es": "Ternera con salsa de bambú y setas",
+            "en": "Beef with mushrooms and bamboo sauce"
+          },
+          "enabled": true,
+          "price": 12.9
+        },
+        {
+          "id": 32,
+          "menu": {
+            "es": "Cerdo agridulce",
+            "en": "Sweet and sour pork"
+          },
+          "enabled": true,
+          "price": 11.5
+        },
+        {
+          "id": 34,
+          "menu": {
+            "es": "Cerdo asado con pimientos, bambú y setas",
+            "en": "Roasted pork with peppers, mushrooms and bamboo"
+          },
+          "enabled": true,
+          "price": 12.5
         }
       ]
     },
@@ -460,8 +540,21 @@
         {
           "id": 0,
           "menu": {
-            "es": "",
-            "en": ""
+            "es": "Bacalao con salsa de bambú y setas",
+            "en": "Codfish with mushrooms and bamboo sauce"
+          },
+          "enabled": true,
+          "price": 0
+        },
+        {
+          "id": 0,
+          "menu": {
+            "es": "Pescado agridulce",
+            "en": "Sweet and sour fish"
+          },
+          "description": {
+            "es": "bacalao fresco rebozado",
+            "en": "fresh fried codfish"
           },
           "enabled": true,
           "price": 0
@@ -475,13 +568,67 @@
       },
       "dishes": [
         {
-          "id": 0,
+          "id": 60,
           "menu": {
-            "es": "",
-            "en": ""
+            "es": "Arroz blanco",
+            "en": "Steamed rice"
           },
           "enabled": true,
-          "price": 0
+          "price": 1.5
+        },
+        {
+          "id": 600,
+          "menu": {
+            "es": "Pan chino",
+            "en": "Chinese bread"
+          },
+          "enabled": true,
+          "price": 1.8
+        },
+        {
+          "id": 601,
+          "menu": {
+            "es": "Pan",
+            "en": "Spanish bread"
+          },
+          "enabled": true,
+          "price": 1
+        },
+        {
+          "id": 602,
+          "menu": {
+            "es": "Tallarines",
+            "en": "Soft noodles"
+          },
+          "enabled": true,
+          "price": 2.2
+        },
+        {
+          "id": 603,
+          "menu": {
+            "es": "Salsa agridulce",
+            "en": "Sweet and sour sauce"
+          },
+          "enabled": true,
+          "price": 1.2
+        },
+        {
+          "id": 604,
+          "menu": {
+            "es": "Salsa curry",
+            "en": "Curry sauce"
+          },
+          "enabled": true,
+          "price": 1.5
+        },
+        {
+          "id": 608,
+          "menu": {
+            "es": "Arroz con huevo",
+            "en": "Egg fried rice"
+          },
+          "enabled": true,
+          "price": 6.9
         }
       ]
     },
@@ -492,14 +639,210 @@
       },
       "dishes": [
         {
-          "id": 0,
+          "id": 71,
           "menu": {
-            "es": "",
-            "en": ""
+            "es": "Lichis",
+            "en": "Lichis"
           },
           "enabled": true,
-          "price": 0
-        }
+          "price": 3.7
+        },
+        {
+          "id": 73,
+          "menu": {
+            "es": "Zumo de naranja natural",
+            "en": "Fresh orange juice"
+          },
+          "enabled": true,
+          "price": 4
+        },
+        {
+          "id": 731,
+          "menu": {
+            "es": "Fruta fresca",
+            "en": "Fresh fruit"
+          },
+          "enabled": true,
+          "price": 3.7
+        },
+        {
+          "id": 732,
+          "menu": {
+            "es": "Fresas con nata",
+            "en": "Strawberries & whipped cream"
+          },
+          "enabled": true,
+          "price": 5.2
+        },
+        {
+          "id": 74,
+          "menu": {
+            "es": "Helado con nueces caramelizadas y miel",
+            "en": "Ice cream with toasted walnuts"
+          },
+          "enabled": true,
+          "price": 4.3
+        },
+        {
+          "id": 744,
+          "menu": {
+            "es": "Nata con nueces caramelizadas",
+            "en": "Whipped cream & toasted walnuts"
+          },
+          "enabled": true,
+          "price": 4.3
+        },
+        {
+          "id": 75,
+          "menu": {
+            "es": "Helado de vainilla",
+            "en": "Vanilla ice-cream"
+          },
+          "enabled": true,
+          "price": 3.7
+        },
+        {
+          "id": 755,
+          "menu": {
+            "es": "Helado de vainilla con nata y chocolante caliente",
+            "en": "vanilla ice-cream & whipped cream"
+          },
+          "enabled": true,
+          "price": 4.6
+        },
+        {
+          "id": 762,
+          "menu": {
+            "es": "Sorbete de limón",
+            "en": "Lemmon sorbet"
+          },
+          "enabled": true,
+          "price": 4.3
+        },
+        {
+          "id": 763,
+          "menu": {
+            "es": "Tarta helada al Whisky",
+            "en": "Whisky ice cream"
+          },
+          "enabled": true,
+          "price": 4.6
+        },
+        {
+          "id": 764,
+          "menu": {
+            "es": "Helado de limón natural",
+            "en": "Natural lemmon ice cream"
+          },
+          "enabled": true,
+          "price": 4.2
+        },
+        {
+          "id": 765,
+          "menu": {
+            "es": "Helado de coco natural",
+            "en": "Natural coconut ice cream"
+          },
+          "enabled": true,
+          "price": 4.5
+        },
+        {
+          "id": 766,
+          "menu": {
+            "es": "Helado de piña natural",
+            "en": "Natural pineapple ice cream"
+          },
+          "enabled": true,
+          "price": 5
+        },
+        {
+          "id": 767,
+          "menu": {
+            "es": "Trufas heladas",
+            "en": "Chocolate truffle"
+          },
+          "enabled": true,
+          "price": 4
+        },
+        {
+          "id": 768,
+          "menu": {
+            "es": "Comtesa",
+            "en": "Comtessa"
+          },
+          "description": {
+            "es": "helado de nata con hojas de chocolate",
+            "en": "whipe ice-cream with crunchy chocolate"
+          },
+          "enabled": true,
+          "price": 4
+        },
+        {
+          "id": 77,
+          "menu": {
+            "es": "Plátano frito con miel",
+            "en": "Fried banana with honey"
+          },
+          "enabled": true,
+          "price": 4.3
+        },
+        {
+          "id": 771,
+          "menu": {
+            "es": "Piña frita con miel",
+            "en": "Fried pineapple with honey"
+          },
+          "enabled": true,
+          "price": 4.3
+        },
+        {
+          "id": 772,
+          "menu": {
+            "es": "Helado frito",
+            "en": "Fried vanilla ice-cream"
+          },
+          "description": {
+            "es": "helado de vainilla con covertura de bizcocho frita",
+            "en": "Vanilla ice-cream covered with fried bread"
+          },
+          "enabled": true,
+          "price": 4.8
+        },
+        {
+          "id": 78,
+          "menu": {
+            "es": "Especial de la casa",
+            "en": "Special of the house"
+          },
+          "description": {
+            "es": "plátano frito, helado, nueces y nata",
+            "en": "fried banana, ice cream, walnuts and cream"
+          },
+          "enabled": true,
+          "price": 5.8
+        },
+        {
+          "id": 782,
+          "menu": {
+            "es": "Profiteroles",
+            "en": "Profiteroles"
+          },
+          "description": {
+            "es": "rellenos de nata con chocolate caliente",
+            "en": "filled with whipped cream and hot chocolate"
+          },
+          "enabled": true,
+          "price": 4.8
+        },
+        {
+          "id": 783,
+          "menu": {
+            "es": "Flan de vainilla con nata",
+            "en": "Vanilla pudding & whipped cream"
+          },
+          "enabled": true,
+          "price": 3.7
+        },
       ]
     }
   }
