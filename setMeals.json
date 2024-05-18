@@ -1,0 +1,152 @@
+{
+  "vat": 10,
+  "setMeals": [
+    {
+      "persons": 1,
+      "price": 17.5,
+      "dishes": [
+        { "es": "Rollo de primavera", "en": "Spring roll", "quantity": 1 }
+      ],
+      "choose": [
+        { "es": "Cerdo agridulce", "en": "Sweet and sour pork" },
+        {
+          "es": "Pollo con almendras y arroz frito",
+          "en": "Chicken with almonds and Egg fried rice"
+        }
+      ],
+      "dessert": 1
+    },
+    {
+      "persons": 2,
+      "price": 34,
+      "dishes": [
+        { "es": "Rollo de primavera", "en": "Spring roll", "quantity": 2 },
+        {
+          "es": "Cerdo rebozado con salsa agridulce",
+          "en": "Sweet and sour pork",
+          "quantity": 1
+        },
+        {
+          "es": "Pollo con almendras",
+          "en": "Chicken with almonds",
+          "quantity": 1
+        },
+        { "es": "Arroz frito", "en": "Egg fried rice", "quantity": 1 }
+      ],
+      "dessert": 2
+    },
+    {
+      "persons": 3,
+      "price": 53,
+      "dishes": [
+        { "es": "Rollo de primavera", "en": "Spring roll", "quantity": 3 },
+        {
+          "es": "Ternera con cebolla",
+          "en": "Beef with onions",
+          "quantity": 1
+        },
+        {
+          "es": "Cerdo rebozado con salsa agridulce",
+          "en": "Sweet and sour pork",
+          "quantity": 1
+        },
+        {
+          "es": "Pollo con almendras",
+          "en": "Chicken with almonds",
+          "quantity": 1
+        },
+        { "es": "Arroz frito", "en": "Egg fried rice", "quantity": 1 }
+      ],
+
+      "dessert": 3
+    },
+    {
+      "persons": 4,
+      "price": 73,
+      "dishes": [
+        {
+          "es": "Pollo con almendras",
+          "en": "Chicken with almonds",
+          "quantity": 3
+        },
+        {
+          "es": "Ternera al Ti-Pan",
+          "en": "Sizzling beef",
+          "quantity": 1
+        },
+        {
+          "es": "Pato frito con salsa de bambú y setas",
+          "en": "Fried duck with mushrooms and bamboo sauce",
+          "quantity": 1
+        },
+        {
+          "es": "Cerdo rebozado con salsa agridulce",
+          "en": "Sweet and sour pork",
+          "quantity": 1
+        },
+        {
+          "es": "Arroz frito",
+          "en": "Egg fried rice",
+          "quantity": 1
+        },
+        { "es": "Arroz frito", "en": "Egg fried rice", "quantity": 1 }
+      ],
+      "dessert": 4
+    },
+    {
+      "persons": 5,
+      "price": 96,
+      "dishes": [
+        {
+          "es": "Tallarines con verduras",
+          "en": "Soft noodles with vegetables",
+          "quantity": 1
+        },
+        {
+          "es": "Pollo con almendras",
+          "en": "Chicken with almonds",
+          "quantity": 1
+        },
+        {
+          "es": "Pato frito con salsa de bambú y setas",
+          "en": "Fried duck with mushrooms and bamboo sauce",
+          "quantity": 1
+        },
+        {
+          "es": "Cerdo rebozado con salsa agridulce",
+          "en": "Sweet and sour pork",
+          "quantity": 1
+        },
+        { "es": "Ternera al Ti-Pan", "en": "Sizzling beef", "quantity": 1 },
+        { "es": "Arroz frito", "en": "Egg fried rice", "quantity": 2 }
+      ],
+      "dessert": 5
+    },
+    {
+      "persons": 6,
+      "price": 115,
+      "dishes": [
+        { "es": "Familia feliz", "en": "Happy family", "quantity": 1 },
+        {
+          "es": "Pollo con almendras",
+          "en": "Chicken with almonds",
+          "quantity": 1
+        },
+        {
+          "es": "Pato frito con salsa de bambú y setas",
+          "en": "Fried duck with mushrooms and bamboo sauce",
+          "quantity": 1
+        },
+        {
+          "es": "Tallarines con verduras",
+          "en": "Soft noodles with vegetables",
+          "quantity": 1
+        },
+        { "es": "Cerdo agridulce", "en": "Sweet and sour pork", "quantity": 1 },
+        { "es": "Ternera al Ti-Pan", "en": "Sizzling beef", "quantity": 1 },
+        { "es": "Arroz frito", "en": "Egg fried rice", "quantity": 2 }
+      ],
+      "dessert": 6
+    }
+  ]
+}
